@@ -1,4 +1,4 @@
-Overview
+##Overview##
 
 This project implements a cloud-based group dining recommendation system that allows a group of users to input dining preferences and returns restaurant recommendations that maximize overall group satisfaction.
 The recommendation algorithm uses vector encoding and cosine similarity to compare group preferences with restaurant attributes.
@@ -12,7 +12,7 @@ The app consists of:
 
 The system returns the top 3 restaurants that best match the group’s preferences.
 
-Running the Application
+##Running the Application##
 
 1. Install dependencies
 
