@@ -6,8 +6,6 @@ The recommendation engine uses **vector encoding** and **cosine similarity** to 
 
 ## Architecture
 
-The application consists of the following components:
-
 - **Streamlit** – Frontend user interface
 - **AWS API Gateway** – REST API endpoints
 - **AWS Lambda** – Serverless backend functions
