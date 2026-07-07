@@ -1,0 +1,226 @@
+[
+    {
+      "name": "Trattoria Demi",
+      "cuisine": "Italian",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.6,
+      "rating": 4.7
+    },
+    {
+      "name": "Papa Bop",
+      "cuisine": "Korean",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 1.1,
+      "rating": 4.8
+    },
+    {
+      "name": "Zentli",
+      "cuisine": "Mexican",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 1.5,
+      "rating": 4.8
+    },
+    {
+      "name": "Stacked and Folded",
+      "cuisine": "American",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.6,
+      "rating": 4.4
+    },
+    {
+      "name": "Campagnola",
+      "cuisine": "Italian",
+      "priceMin": 30,
+      "priceMax": 50,
+      "distance": 1.4,
+      "rating": 4.7
+    },
+    {
+      "name": "Prairie Moon",
+      "cuisine": "American",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.5,
+      "rating": 4.3
+    },
+    {
+      "name": "TOMO Japanese Street Food",
+      "cuisine": "Japanese",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.5,
+      "rating": 4.4
+    },
+    {
+      "name": "Hokkaido Ramen & Sushi Bar",
+      "cuisine": "Japanese",
+      "priceMin": 30,
+      "priceMax": 50,
+      "distance": 0.6,
+      "rating": 4.7
+    },
+    {
+      "name": "LeTour Social Kitchen & Bar",
+      "cuisine": "American",
+      "priceMin": 50,
+      "priceMax": 100,
+      "distance": 0.6,
+      "rating": 4.2
+    },
+    {
+      "name": "Soban Korean",
+      "cuisine": "Korean",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.6,
+      "rating": 4.6
+    },
+    {
+      "name": "DosBros Fresh Mexican Grill",
+      "cuisine": "Mexican",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.5,
+      "rating": 4.7
+    },
+    {
+      "name": "Dave's Italian Kitchen",
+      "cuisine": "Italian",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.6,
+      "rating": 4.5
+    },
+    {
+      "name": "Shinsen",
+      "cuisine": "Japanese",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.8,
+      "rating": 4.6
+    },
+    {
+      "name": "Ten Mile House",
+      "cuisine": "American",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 1.3,
+      "rating": 4.3
+    },
+    {
+      "name": "Alcove",
+      "cuisine": "American",
+      "priceMin": 50,
+      "priceMax": 100,
+      "distance": 0.7,
+      "rating": 4.4
+    },
+    {
+      "name": "Koco Table Evanston",
+      "cuisine": "Korean",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.4,
+      "rating": 4.1
+    },
+    {
+      "name": "Gigio's",
+      "cuisine": "Italian",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.7,
+      "rating": 4.4
+    },
+    {
+      "name": "Mira Sushi",
+      "cuisine": "Japanese",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.5,
+      "rating": 4.7
+    },
+    {
+      "name": "Taco Diablo",
+      "cuisine": "Mexican",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.8,
+      "rating": 4.4
+    },
+    {
+      "name": "Guzman y Gomez",
+      "cuisine": "Mexican",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.5,
+      "rating": 4.2
+    },
+    {
+      "name": "Pasta Luna",
+      "cuisine": "Italian",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.5,
+      "rating": 4.1
+    },
+    {
+      "name": "Todoroki",
+      "cuisine": "Japanese",
+      "priceMin": 20,
+      "priceMax": 30,
+      "distance": 0.5,
+      "rating": 4.1
+    },
+    {
+      "name": "10Q Chicken",
+      "cuisine": "Korean",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 0.5,
+      "rating": 4.7
+    },
+    {
+      "name": "The Hampton Social",
+      "cuisine": "American",
+      "priceMin": 20,
+      "priceMax": 40,
+      "distance": 3.9,
+      "rating": 4.4
+    },
+    {
+      "name": "Tortazo",
+      "cuisine": "Mexican",
+      "priceMin": 10,
+      "priceMax": 20,
+      "distance": 4.1,
+      "rating": 3.1
+    },
+    {
+      "name": "Roka Akor",
+      "cuisine": "Japanese",
+      "priceMin": 40,
+      "priceMax": 80,
+      "distance": 3.9,
+      "rating": 4.6
+    },
+    {
+      "name": "K-Coop",
+      "cuisine": "Korean",
+      "priceMin": 10,
+      "priceMax": 30,
+      "distance": 5.0,
+      "rating": 4.4
+    },
+    {
+      "name": "Mia Francesca",
+      "cuisine": "Italian",
+      "priceMin": 30,
+      "priceMax": 50,
+      "distance": 4.2,
+      "rating": 4.5
+    }
+  ]
